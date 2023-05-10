@@ -1,5 +1,6 @@
 # 💫 About Me:
-Greetings, fellow humans and AI entities!<br><br>Here’s a sneak peek into what’s happening in my programming universe:<br><br>Currently, I’m diving deep into the exciting and ever-evolving world of machine learning models and neural network implementations. But that’s not all! I’m also skilled at object-oriented programming and cloud solutions.<br>(Yes, I know what you’re thinking - I’m the complete package😉).<br><br>But wait, there’s more! As if that wasn’t enough, I’m also diving headfirst into the fascinating world of blockchain development and web 3 applications. That’s right, I’m all about that decentralized life, baby.<br><br>And if you thought that was enough, think again! I’m also fascinated by biotechnology, AR technologies, 3D modelling, and gaming.<br>Who said you can’t have it all, right?😎<br><br>I’m always on the lookout to collaborate on cutting-edge projects that challenge my coding skills. So, if you have a project that needs a coding ninja, I’m your girl!🥷🤖
+
+Passionate about the ever-evolving field of machine learning models and neural network implementations, as well as skilled in object-oriented programming and cloud solutions. Proficient in blockchain development and web 3 applications, with a focus on decentralization. Fascinated by biotechnology, AR technologies, 3D modelling, and gaming. Seeking opportunities to collaborate on innovative projects that challenge my coding skills. Open to contributing as a coding expert in a team-oriented environment.
 
 
 ## 🌐 Socials:
